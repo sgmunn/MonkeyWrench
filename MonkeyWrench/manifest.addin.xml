@@ -8,8 +8,8 @@
         version     = "1.0">
         
     <Dependencies>
-        <Addin id="::MonoDevelop.Ide" version="4.0" />
-        <Addin id="::MonoDevelop.Core" version="4.0" />
+        <Addin id="::MonoDevelop.Ide" version="5.0" />
+        <Addin id="::MonoDevelop.Core" version="5.0" />
     </Dependencies>
     
     <!-- Navigation Markers -->
